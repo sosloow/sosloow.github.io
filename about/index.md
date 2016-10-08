@@ -1,4 +1,4 @@
 ---
 layout: full-width
-title: About
+title: О сайте
 ---

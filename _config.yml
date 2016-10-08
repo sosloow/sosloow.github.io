@@ -18,6 +18,4 @@ page:
   template: _page.txt
   extension: md
 editor: gvim
-git:
-  branch: gh-pages
 google_analytics: UA-60249345-1
