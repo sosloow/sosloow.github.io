@@ -3,10 +3,10 @@
   <channel>
     <title>Статьи</title>
     <description></description>
-    <link>//</link>
-    <atom:link href="//feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 08 Oct 2016 15:12:35 -0400</pubDate>
-    <lastBuildDate>Sat, 08 Oct 2016 15:12:35 -0400</lastBuildDate>
+    <link>/</link>
+    <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Sat, 08 Oct 2016 15:15:36 -0400</pubDate>
+    <lastBuildDate>Sat, 08 Oct 2016 15:15:36 -0400</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
     
       <item>
@@ -189,11 +189,11 @@ Which &lt;em&gt;totally&lt;/em&gt; goofs up the layout CSS.&lt;/p&gt;
 
 &lt;p&gt;This code: &lt;code&gt;{% fullwidth &quot;assets/img/rhino.png&quot; &quot;Tufte pet rhino (via &amp;lt;a href=\&quot;//www.edwardtufte.com/tufte/\&quot;&amp;gt;Edward Tufte&amp;lt;/a&amp;gt;)&quot;  %}&lt;/code&gt;&lt;/p&gt;
 
-&lt;figure class=&quot;fullwidth&quot;&gt;&lt;img src=&quot;//assets/img/rhino.png&quot; /&gt;&lt;figcaption&gt;Tufte&#39;s pet rhino (via &lt;a href=&quot;//www.edwardtufte.com/tufte/&quot;&gt;Edward Tufte&lt;/a&gt;)&lt;/figcaption&gt;&lt;/figure&gt;
+&lt;figure class=&quot;fullwidth&quot;&gt;&lt;img src=&quot;/assets/img/rhino.png&quot; /&gt;&lt;figcaption&gt;Tufte&#39;s pet rhino (via &lt;a href=&quot;//www.edwardtufte.com/tufte/&quot;&gt;Edward Tufte&lt;/a&gt;)&lt;/figcaption&gt;&lt;/figure&gt;
 </description>
         <pubDate>Tue, 17 Feb 2015 06:04:01 -0500</pubDate>
-        <link>//2015/test</link>
-        <guid isPermaLink="true">//2015/test</guid>
+        <link>/2015/test</link>
+        <guid isPermaLink="true">/2015/test</guid>
         
         
         <category>post</category>
