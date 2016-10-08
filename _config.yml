@@ -1,0 +1,23 @@
+baseurl: /
+title: Статьи
+subtitle: Об истории, музыке, философии и чем угодно
+author: Степа Шилин
+simple_search: http://google.com/search
+description:
+name: Мой блог
+markdown: kramdown
+markdown_ext: "markdown,mkdown,mkdn,mkd,md"
+permalink: /:year/:title
+timezone: America/New_York
+excerpt_separator: <!--more-->  # you can specify your own separator, of course.
+exclude: ['Gemfile', 'Gemfile.lock', 'Rakefile', 'UploadToGithub.Rakefile', 'README.md']
+post:
+  template: _post.txt
+  extension: md
+page:
+  template: _page.txt
+  extension: md
+editor: gvim
+git:
+  branch: gh-pages
+google_analytics: UA-60249345-1
